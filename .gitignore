@@ -2,6 +2,9 @@
 src/main/scala/gcd/*
 src/test/scala/gcd/*
 test_run_dir/*
+.bloop/*
+.metals/*
+.vscode/*
 ### XilinxISE template
 # intermediate build files
 *.bgn
